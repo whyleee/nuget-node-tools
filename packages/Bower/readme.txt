@@ -1,5 +1,5 @@
 ﻿Bower {%PACKAGE_VERSION%}
-=============
+============
 
 Bower is a package manager for client-side JavaScript. It is platform independent (unlike
 NuGet, gem or npm) works with bare Git repositories, and because of this - largely
@@ -53,10 +53,11 @@ where "http://1:1@127.0.0.1:8888" is the proxy at "127.0.0.1:8888" with username
 password "1" used for authentication.
 
 
-Docs
-----
+Support
+-------
 
 Read more about Bower at http://bower.io/
+Post NuGet package issues to https://github.com/whyleee/nuget-node-tools/issues
 
 
 ------------------------------------------------------
